@@ -19,3 +19,14 @@
 ### Resultados
 
 ![Alt text](https://github.com/bielramalho/cybersecurity-desafio-phising/assets/103615988/695fc649-c83e-434e-8b03-9452c80a54cd)
+
+# Tendo dificuldades para fazer o exercício
+
+- Devido as atualizações do browser que foi utilizado, o método de ataque
+"Site Cloner" não funcionou.
+
+- Então, eu optei por usar o método "Web Templates". Selecionei dentre
+as opções "Twitter", assim gerenado uma página de login do próprio antigo
+twitter mas sendo falsa para obter igualmente as informações de login.
+
+![Alt text](https://github.com/bielramalho/cybersecurity-desafio-phising/assets/103615988/695fc649-c83e-434e-8b03-9452c80a54cd)

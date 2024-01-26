@@ -27,6 +27,6 @@
 
 - Então, eu optei por usar o método "Web Templates". Selecionei dentre
 as opções "Twitter", assim gerenado uma página de login do próprio antigo
-twitter mas sendo falsa para obter igualmente as informações de login.
+twitter mas, sendo falsa para obter igualmente as informações de login.
 
 ![Alt text](https://github.com/bielramalho/cybersecurity-desafio-phising/assets/103615988/695fc649-c83e-434e-8b03-9452c80a54cd)

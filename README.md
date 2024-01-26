@@ -18,7 +18,7 @@
 
 ### Resultados
 
-![Alt text](https://github.com/bielramalho/cybersecurity-desafio-phising/assets/103615988/695fc649-c83e-434e-8b03-9452c80a54cd)
+![Alt text](https://github.com/bielramalho/cybersecurity-desafio-phising/assets/103615988/4edea8d1-1c88-47c5-a465-e60b3c419b0d)
 
 # Tendo dificuldades para fazer o exercício
 

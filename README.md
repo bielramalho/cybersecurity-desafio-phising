@@ -20,7 +20,7 @@
 
 ![Alt text](https://github.com/bielramalho/cybersecurity-desafio-phising/assets/103615988/4edea8d1-1c88-47c5-a465-e60b3c419b0d)
 
-# Tendo dificuldades para fazer o exercício
+# Dificuldades para fazer o exercício
 
 - Devido as atualizações do browser que foi utilizado, o método de ataque
 "Site Cloner" não funcionou.
